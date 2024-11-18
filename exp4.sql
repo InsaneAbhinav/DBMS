@@ -1,5 +1,5 @@
--- Ayush Vashishth
--- 500119331
+-- Abhinav Singla
+-- 500120278
 
 CREATE DATABASE company;
 USE company;
